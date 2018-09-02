@@ -1,0 +1,134 @@
+[2018-05-22 07:36:27][Vendor Registration] Error 'TypeError: req.check is not a function
+[2018-05-22 07:50:13][Vendor Registration] Error 'TypeError: req.check is not a function
+[2018-05-22 07:50:28][Vendor Registration] Error 'TypeError: req.check is not a function
+[2018-05-22 07:52:03][Vendor Registration] Error 'TypeError: req.check is not a function
+[2018-05-22 07:52:50][Vendor Registration] Error 'TypeError: req.check is not a function
+[2018-05-23 05:35:34][User sendForgotPasswordEmail] Error 'ReferenceError: EmailService is not defined
+[2018-05-23 05:35:59][User sendForgotPasswordEmail] Error 'ReferenceError: config is not defined
+[2018-05-23 05:36:16][User sendForgotPasswordEmail] Error 'ReferenceError: saved_vendor is not defined
+[2018-05-23 06:51:48][Vendor Registration] Error 'Error: Illegal arguments: undefined, string
+[2018-05-23 07:09:24][User sendForgotPasswordEmail] Error 'ReferenceError: bcrypt is not defined
+[2018-05-23 10:43:55][SendMail] Error 'Error: ENOENT: no such file or directory, open 'E:\e-pharma-node\e-pharma\ExpressApp\functions\pdf-sample'
+[2018-05-23 10:44:06][SendMail] Error 'Error: ENOENT: no such file or directory, open 'E:\e-pharma-node\e-pharma\ExpressApp\functions\pdf-sample'
+[2018-05-23 11:09:08][ERROR] Internal Server Error 'Error: ENOENT: no such file or directory, open 'E:\e-pharma-node\e-pharma\ExpressApp\public\uploads\files\1527073748355.pdf'
+[2018-05-25 06:29:03][ERROR] Internal Server Error 'PayloadTooLargeError: request entity too large
+[2018-05-25 06:29:16][ERROR] Internal Server Error 'PayloadTooLargeError: request entity too large
+[2018-05-25 06:45:58][ERROR] Internal Server Error 'PayloadTooLargeError: request entity too large
+[2018-05-25 06:47:34][ERROR] Internal Server Error 'Error: File too large
+[2018-05-25 06:47:55][ERROR] Internal Server Error 'Error: File too large
+[2018-05-25 06:49:04][ERROR] Internal Server Error 'Error: File too large
+[2018-05-25 06:49:10][ERROR] Internal Server Error 'Error: File too large
+[2018-05-25 06:50:59][ERROR] Internal Server Error 'PayloadTooLargeError: request entity too large
+[2018-05-25 07:26:34][ERROR] Internal Server Error 'Error: File too large
+[2018-05-25 07:26:46][ERROR] Internal Server Error 'Error: File too large
+[2018-05-25 07:27:02][ERROR] Internal Server Error 'Error: File too large
+[2018-05-25 07:27:34][ERROR] Internal Server Error 'Error: File too large
+[2018-05-25 07:29:08][ERROR] Internal Server Error 'Error: File too large
+[2018-05-25 07:29:58][ERROR] Internal Server Error 'Error: File too large
+[2018-05-25 09:49:14][Vendor Registration] Error 'CastError: Cast to ObjectId failed for value "["5b07dbcdde49de29d0c2973c"]" at path "_id" for model "Media"
+[2018-05-25 09:50:53][Vendor Registration] Error 'TypeError: media_info.each is not a function
+[2018-05-25 09:52:18][Vendor Registration] Error 'TypeError: media_info.each is not a function
+[2018-05-25 09:55:31][Vendor Registration] Error 'CastError: Cast to ObjectId failed for value "["5b07dbcdde49de29d0c2973c"]" at path "_id" for model "Media"
+[2018-05-25 09:59:05][Vendor Registration] Error 'CastError: Cast to ObjectId failed for value ""5b07dbcdde49de29d0c2973c"" at path "_id" for model "Media"
+[2018-05-28 10:02:51][Add Vendor Medicine] Error 'ValidationError: volume_unit: Path `volume_unit` is required., mah_name: Path `mah_name` is required.
+[2018-05-29 08:04:52][Guest User authenticate] Error 'Error: Illegal arguments: undefined, string
+[2018-05-29 08:09:58][Guest User authenticate] Error 'Error: Illegal arguments: undefined, string
+[2018-05-29 08:10:38][Guest User authenticate] Error 'Error: Illegal arguments: undefined, string
+[2018-05-29 08:11:31][Guest User authenticate] Error 'Error: Illegal arguments: undefined, string
+[2018-05-29 08:18:11][Guest User authenticate] Error 'ValidationError: user_password: Path `user_password` is required., user_email: Path `user_email` is required., user_type: `quest` is not a valid enum value for path `user_type`.
+[2018-05-29 08:21:00][Guest User authenticate] Error 'ValidationError: user_password: Path `user_password` is required., user_email: Path `user_email` is required.
+[2018-05-29 08:24:51][Guest User authenticate] Error 'ValidationError: user_password: Path `user_password` is required., user_email: Path `user_email` is required.
+[2018-05-29 08:26:12][Guest User authenticate] Error 'MongoError: E11000 duplicate key error collection: e-pharma-dev.users index: user_email_1 dup key: { : null }
+[2018-05-29 09:08:49][Guest User authenticate] Error 'MongoError: E11000 duplicate key error collection: e-pharma-dev.users index: user_email_1 dup key: { : null }
+<<<<<<< HEAD
+[2018-05-29 11:56:10][ERROR] Internal Server Error 'PayloadTooLargeError: request entity too large
+[2018-05-29 11:57:01][ERROR] Internal Server Error 'PayloadTooLargeError: request entity too large
+[2018-05-29 11:58:41][ERROR] Internal Server Error 'PayloadTooLargeError: request entity too large
+[2018-05-29 11:58:46][ERROR] Internal Server Error 'PayloadTooLargeError: request entity too large
+[2018-05-29 11:58:56][ERROR] Internal Server Error 'Error: ENOENT: no such file or directory, open '/var/www/html/e-pharma/ExpressApp/public/uploads/files/1527595136814.pdf'
+[2018-05-29 12:00:09][ERROR] Internal Server Error 'Error: File too large
+[2018-05-29 12:02:39][ERROR] Internal Server Error 'Error: Unexpected field
+[2018-05-30 06:22:17][Git Single Vendor Medicine] Error 'CastError: Cast to ObjectId failed for value "5b0bd87ef91a9729404ea3455b0e3835868a747833e487fa" at path "_id" for model "Vendor_Medicine"
+[2018-05-30 06:50:33][ERROR] Internal Server Error 'Error: Unexpected field
+[2018-05-30 11:40:22][Git Category Medicines] Error 'TypeError: category_medicines.foreach is not a function
+[2018-05-30 11:41:41][Git Category Medicines] Error 'TypeError: category_medicines.foreach is not a function
+=======
+[2018-05-31 12:02:47][DATABASE] MongoDB connection error '
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 9e9a277895618cb334d93361ec0e12aa4a2b71aa
+=======
+[2018-06-03 09:44:38][DATABASE] MongoDB connection error '
+[2018-06-04 08:46:10][Get Single Vendor Medicine] Error 'TypeError: Cannot read property 'vendor_details' of null
+[2018-06-04 08:50:23][Get Single Vendor Medicine] Error 'TypeError: Cannot read property 'vendor_details' of null
+[2018-06-04 08:51:37][Get Single Vendor Medicine] Error 'TypeError: Cannot read property 'vendor_details' of null
+[2018-06-04 08:52:11][Get Single Vendor Medicine] Error 'TypeError: Cannot read property 'vendor_details' of null
+>>>>>>> 9f31791ac5821c8d461744f1ba57ec4afff10eb4
+=======
+=======
+>>>>>>> 83235e1d198f885572786468c75e24efb5b541b8
+[2018-06-04 09:20:37][ERROR] Internal Server Error 'Error: Cannot find module 'csv-parse'
+[2018-06-05 11:26:55][Vendor Registration] Error 'CastError: Cast to string failed for value "{ ok: 1, nModified: 0, n: 1 }" at path "cart_id" for model "Cart_Items"
+[2018-06-05 11:30:02][Vendor Registration] Error 'CastError: Cast to string failed for value "{ ok: 1,
+  nModified: 0,
+  n: 1,
+  upserted: [ { index: 0, _id: 5b16743a6da5b64384a5e1a4 } ] }" at path "cart_id" for model "Cart_Items"
+[2018-06-05 11:31:23][Vendor Registration] Error 'ReferenceError: cart_id is not defined
+[2018-06-05 11:47:26][Vendor Registration] Error 'TypeError: Cannot read property '_id' of undefined
+[2018-06-05 12:05:56][ERROR] Internal Server Error 'Error: File too large
+[2018-06-06 03:46:15][Vendor Registration] Error 'TypeError: GuestCart.findOrCreate is not a function
+[2018-06-06 03:47:22][Vendor Registration] Error 'TypeError: GuestCart.findOrCreate is not a function
+[2018-06-06 03:48:10][Vendor Registration] Error 'TypeError: Cannot read property '_id' of undefined
+[2018-06-06 03:48:52][Vendor Registration] Error 'TypeError: Cannot read property '_id' of undefined
+[2018-06-06 03:49:37][Vendor Registration] Error 'TypeError: Cannot read property '_id' of undefined
+[2018-06-06 03:50:15][Vendor Registration] Error 'TypeError: Cannot read property '_id' of undefined
+[2018-06-06 03:51:54][Vendor Registration] Error 'TypeError: Cannot read property '_id' of undefined
+[2018-06-06 03:52:13][Vendor Registration] Error 'TypeError: Cannot read property '_id' of undefined
+[2018-06-06 03:52:43][Vendor Registration] Error 'TypeError: Cannot read property '_id' of undefined
+[2018-06-06 03:53:49][Vendor Registration] Error 'TypeError: Cannot read property '_id' of undefined
+[2018-06-06 03:54:39][Vendor Registration] Error 'TypeError: Cannot read property '_id' of undefined
+<<<<<<< HEAD
+[2018-06-07 07:20:46][guest_cart controller quickReserve] Error 'TypeError: Cannot set property 'qty' of undefined
+[2018-06-07 09:55:56][guest_cart controller quickReserve] Error 'TypeError: Cannot set property 'product' of undefined
+[2018-06-07 11:01:39][guest_cart controller quickReserve] Error 'TypeError: Cannot read property '0' of undefined
+[2018-06-07 11:02:00][guest_cart controller quickReserve] Error 'TypeError: Cannot read property '0' of undefined
+[2018-06-07 11:05:57][guest_cart controller quickReserve] Error 'TypeError: Cannot read property '0' of undefined
+[2018-06-07 11:08:03][guest_cart controller quickReserve] Error 'TypeError: Cannot read property '0' of undefined
+[2018-06-07 11:09:27][guest_cart controller quickReserve] Error 'TypeError: Cannot read property '0' of undefined
+[2018-06-07 11:12:34][guest_cart controller quickReserve] Error 'TypeError: req.body.vendor_medicine_id is not a function
+[2018-06-07 11:17:31][guest_cart controller quickReserve] Error 'TypeError: Cannot read property 'vendor_medicine_id' of undefined
+[2018-06-07 11:19:46][guest_cart controller quickReserve] Error 'TypeError: Cannot read property '0' of undefined
+[2018-06-07 11:21:58][guest_cart controller quickReserve] Error 'ReferenceError: vendor_medicine_id is not defined
+[2018-06-07 11:24:28][guest_cart controller quickReserve] Error 'TypeError: Cannot read property '0' of undefined
+[2018-06-07 11:27:22][guest_cart controller quickReserve] Error 'TypeError: Cannot read property '0' of undefined
+[2018-06-07 11:29:55][guest_cart controller quickReserve] Error 'TypeError: Cannot read property '0' of undefined
+[2018-06-07 11:30:41][guest_cart controller quickReserve] Error 'TypeError: Cannot read property '0' of undefined
+[2018-06-07 11:31:30][guest_cart controller quickReserve] Error 'ReferenceError: vendor_medicine_id is not defined
+[2018-06-07 11:33:43][guest_cart controller quickReserve] Error 'TypeError: Cannot read property '0' of undefined
+[2018-06-07 11:35:00][guest_cart controller quickReserve] Error 'ReferenceError: vendor_medicine_id is not defined
+[2018-06-07 11:35:47][guest_cart controller quickReserve] Error 'TypeError: Cannot read property '0' of undefined
+[2018-06-07 11:36:47][guest_cart controller quickReserve] Error 'TypeError: Cannot read property '0' of undefined
+[2018-06-07 11:37:58][guest_cart controller quickReserve] Error 'TypeError: Cannot read property '0' of undefined
+=======
+[2018-06-07 10:55:34][guest_cart controller addItemToCart] Error 'ReferenceError: ObjectId is not defined
+>>>>>>> 958bd72b928e72de45b05a3d4aef0ff7ba0fc1a0
+[2018-06-12 08:00:41][guest_cart controller quickReserve] Error 'TypeError: Cannot read property 'length' of undefined
+[2018-06-12 08:01:08][guest_cart controller quickReserve] Error 'TypeError: Cannot read property 'length' of undefined
+[2018-06-12 08:03:33][guest_cart controller quickReserve] Error 'TypeError: Cannot read property 'length' of undefined
+[2018-06-12 08:05:48][guest_cart controller quickReserve] Error 'TypeError: Cannot read property 'length' of undefined
+[2018-06-12 08:07:33][guest_cart controller quickReserve] Error 'TypeError: Cannot read property 'length' of undefined
+[2018-06-12 08:57:56][Reservation controller BulkReserve] Error 'TypeError: Cannot read property 'length' of undefined
+[2018-06-13 05:30:26][Get Guest reservations] Error 'TypeError: Cannot read property 'length' of undefined
+[2018-06-13 06:08:39][Get Guest reservations] Error 'TypeError: Cannot read property 'length' of undefined
+[2018-06-13 06:29:10][Get Guest reservations] Error 'TypeError: Cannot read property 'length' of undefined
+[2018-06-13 06:30:16][Get Guest reservations] Error 'TypeError: Cannot read property 'length' of undefined
+[2018-06-13 06:49:51][Get Guest reservations] Error 'ReferenceError: date is not defined
+[2018-06-13 07:39:52][Get Guest reservations] Error 'ReferenceError: vendor is not defined
+[2018-06-13 08:42:52][Get Guest reservations] Error 'TypeError: Cannot read property 'medicine_name' of undefined
+[2018-06-21 12:57:22][guest_cart controller addItemToCart] Error 'TypeError: Cannot read property 'id' of undefined
+[2018-06-21 12:57:34][guest_cart controller addItemToCart] Error 'TypeError: Cannot read property 'id' of undefined
+[2018-06-21 13:07:36][guest_cart controller addItemToCart] Error 'TypeError: Cannot read property 'id' of undefined
+[2018-06-28 12:21:07][ERROR] Internal Server Error 'TypeError: Cannot read property 'api_key' of undefined
+[2018-06-28 12:22:28][PushNotifications Service sendNotification] Error 'Error: Falsy value for recipient key 'registrationTokens'.
+[2018-09-01 11:10:33][DATABASE] MongoDB connection error '
